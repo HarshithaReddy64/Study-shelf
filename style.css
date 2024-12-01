@@ -109,9 +109,6 @@ ol,ul{
     border-radius: 20px;
     text-align: center;
 }
-#boxc{
-    min-width: 275px;
-}
 .section a:hover{
     background-image: var(--text-color);    
     transform: scale(1.1);
@@ -244,7 +241,7 @@ ol,ul{
     }
     .head #vpath{
         top: 4px;
-        width: 150px;
+        width: 200px;
         height: 55px;
     }
     .head #vit{
