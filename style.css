@@ -32,12 +32,6 @@ body{
     color: transparent;
     font-family: gentium-plus;
 }
-.head #vit{
-    position: relative;
-    margin: 1rem;
-    height: 65px;
-    mix-blend-mode:lighten;
-}
 .space{
     height: 100px;
 }
@@ -250,7 +244,7 @@ ol,ul{
     }
     .head #vpath{
         top: 4px;
-        width: 130px;
+        width: 150px;
         height: 55px;
     }
     .head #vit{
@@ -315,9 +309,6 @@ ol,ul{
         width: 43%;
         border-radius: 20px;
         text-align: center;
-    }
-    #boxc{
-        width: 92%;
     }
     .section a:hover{
         background-image: var(--text-color);
