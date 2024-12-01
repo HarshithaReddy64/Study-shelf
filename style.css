@@ -236,9 +236,6 @@ ol,ul{
     transform: scale(1.1);
 }
 @media(max-width:600px) {
-    .head{
-        height: 70px;
-    }
     .head #vpath{
         top: 4px;
         width: 180px;
@@ -389,7 +386,7 @@ ul li{
 
 @media (max-width:910px) {
     .head-intro{
-        height: 700px;
+        height: 800px;
         flex-direction: column-reverse;
         justify-content: center;
         align-items: center;
