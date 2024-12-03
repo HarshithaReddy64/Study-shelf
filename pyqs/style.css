@@ -373,6 +373,7 @@ h5{
         padding: 5px 13px;
         border-width: 2px;
         margin: 18px 15px;
+        width : 100px;
     }
     .s1 i{
         display: none;
@@ -576,13 +577,11 @@ h5{
     h5{
         font-size: 17px;
     }
-    /* .subs .btn{
+    .subs .btn{
         border-width:1px;
-        background: var(--primary-color);
+        width : 90px;
     }
-    .subs .btn:hover{
-        background: #0f59c7;
-    } */
+
 }
 
 
