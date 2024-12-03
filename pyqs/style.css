@@ -579,7 +579,7 @@ h5{
     }
     .subs .btn{
         border-width:1px;
-        width : 90px;
+        min-width : 90px;
     }
 
 }
