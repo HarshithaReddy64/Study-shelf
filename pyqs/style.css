@@ -45,7 +45,7 @@
 }
 .title{
     font-family:"gentium plus" ;
-    font-size: 25px;
+    font-size: 40px;
     font-weight: 500;
     letter-spacing: 3px;
     background-image: var(--color-two);
@@ -503,6 +503,10 @@ h5{
 
 }
 @media (max-width:800px){
+    .title{
+        font-size: 22px;
+        letter-spacing : 1px;
+    }
     .labels{
         display: none;
     }
