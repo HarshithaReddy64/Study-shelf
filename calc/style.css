@@ -448,6 +448,10 @@ input::placeholder{
 
 
 @media (max-width:994px) {
+    .title{
+        font-size : 22px;
+        letter-spacing : 1px;
+    }
     .head-intro{
         height: 500px;
         flex-direction: column-reverse;
